@@ -7,7 +7,7 @@ I build scalable web applications, REST APIs, and secure full-stack projects usi
 [![Email](https://img.shields.io/badge/suphalthapa008@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:suphalthapa008@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suphal%20Thapa-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suphal-thapa-473083286/)
 ![Location](https://img.shields.io/badge/Pokhara,Nepal-4A4A4A?style=flat-square)
-![Remote Ready](https://img.shields.io/badge/Remote%20Ready-228B22?style=flat-square&logo=vercel&logoColor=white)
+![Remote Ready](https://img.shields.io/badge/Remote%20Ready-006400?style=flat-square)
 ---
 
 ##  Personal Projects (with code)
