@@ -15,15 +15,13 @@ I build scalable web applications, REST APIs, and secure full-stack projects usi
 
 | Project | Description | Tech Stack | Live | Code |
 |---------|-------------|------------|:---:|:---:|
-|  Early Medicine Recommendation System | Suggests medicines based on symptoms | Python, Flask, ML | — | [Code](https://github.com/suphalthapa/Early-Medicine-Recommendation-System)) |
-|  Library Management System | Manage books, students, and borrowing records | Python, Selenium, SQLite | — | [Code](https://github.com/suphalthapa/Library-Management-System)) |
-
----
+|  Early Medicine Recommendation System | Suggests medicines based on symptoms | Python, Flask, ML | — | [Code](https://github.com/suphalthapa/Early-Medicine-Recommendation-System) |
+|  Library Management System | Manage books, students, and borrowing records | Python, Selenium, SQLite | — | [Code](https://github.com/suphalthapa/Library-Management-System) |
 
 ---
 
 ##  Tech Stack
-
+```text
 
 Backend
 Python • Django • Django REST Framework
@@ -36,10 +34,7 @@ PostgreSQL • SQLite
 
 Tools
 Git • GitHub • Docker • VS Code
-
-
----
-
+```
 ---
 
 ##  Open to Opportunities
